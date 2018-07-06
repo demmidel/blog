@@ -2,8 +2,8 @@ title: Homey Inspire
 author: "@jekyllrb"
 email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Keren dengan casing beken.
-tagline: Your home inspiration
+  Home Appliance
+tagline: How to and Buying Guide
 permalink: /:year/:month/:day/:title.html
 url: ""
 baseurl: ""
@@ -14,3 +14,5 @@ plugins:
 
 paginate: 5
 paginate_path: "/page:num/"
+
+version: 2
