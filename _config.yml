@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "twitter_username:"
   Keren dengan casing beken.
 tagline: Your home inspiration
 permalink: /:year/:month/:day/:title.html
-url: '/'
-baseurl: ''
+url: ""
+baseurl: "/"
 
 plugins:
   - jekyll-sitemap
