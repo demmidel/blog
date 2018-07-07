@@ -42,7 +42,7 @@ The way the knife is made will have an impact on the quality and price. Fully fo
 
 **Carbon steel** – Carbon steel blades are more expensive but require less sharpening because of the higher carbon factor.
 
-**Ceramic – Hard-wearing and lightweight, ceramic blades glide through materials smoothly and retain their sharp edge longer than stainless steel.
+**Ceramic** – Hard-wearing and lightweight, ceramic blades glide through materials smoothly and retain their sharp edge longer than stainless steel.
 
 **Damascus** – Damascus knives can be ground very sharply. The laminated blades have a carbon steel core, giving them a hard edge.
 
