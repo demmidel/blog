@@ -25,7 +25,7 @@ Fabric, colour and pattern are all important to consider when picking out the st
 
 The top hem or heading of your curtains or drapes will contribute to the overall look of your window dressing, so consider these carefully as well.
 
-![window-dressing1](/images/window-dressing1.jpg)
+![window-dressing1]({{ site.baseurl }}/images/window-dressing1.jpg)
 
 **Pencil pleats**
 
@@ -51,7 +51,7 @@ Pinch pleats offer a structured, tailored look – perfect for adding a touch of
 
 Goblet pleats are very elegant and formal in style – pleats fall from rounded ‘goblet’ style folds that are stuffed to appear fuller and retain their shape whether curtains are open or shut.
 
-![window-dressing2](/images/window-dressing2.jpg)
+![window-dressing2]({{ site.baseurl }}/images/window-dressing2.jpg)
 
 ### 3. Curtain fabrics
 Getting the fabric right is an essential part of choosing your window dressings – the fabric you use will have an impact not just on the finished look but on how well it will hold up over time. While we might think of curtains as more decorative now, they still serve an important purpose – think about what you want your curtains to do and let that narrow down your search for the fabrics you use. Some of the most common functions include:
@@ -68,7 +68,7 @@ If you have a room that faces out onto a busy street, noise control will be a pr
 
 Particularly in older homes, draft from the windows in winter can sap the heat from a room. If you need your window dressing to provide extra insulation, choose something that covers the windows, extending well past the trim and draping on the floor. Heavy fabrics like damask, tapestry, velvet and suede are all good materials for blocking out drafts. Special thermal and flannel-backed linings will also help make your room more energy efficient – the more layers you add, the warmer your window dressing will be. Interlining is another good option for insulation; here, an additional blanket is stitched between the curtain and lining to provide even greater heat and sound insulation, and will also help make curtains appear even more full and luxurious when hung.
 
-![window-dressing3](/images/window-dressing3.jpg)
+![window-dressing3]({{ site.baseurl }}/images/window-dressing3.jpg)
 
 ### 4. Buying window blinds
 
@@ -76,7 +76,7 @@ Blinds are an easy, practical option for your window dressings, particularly in 
 
 Blinds and hard coverings are particularly well suited to kitchens and bathrooms where there is more humidity and condensation – they can withstand moisture, repel unfavourable odours and are easy to clean.
 
-![window-dressing4](/images/window-dressing4.jpg)
+![window-dressing4]({{ site.baseurl }}/images/window-dressing4.jpg)
 
 There’s a huge amount of choice when it comes to blinds, and your decision will depend on the room, amount of space you have and what you want them to accomplish. The most common include:
 
@@ -120,7 +120,7 @@ Decorative yet functional, tie backs are a quick fix way to add some drama and s
 
 Pelmets conceal the top portion of a window dressing and are made up of short panels in matching or contrasting colours, fabrics and patterns. You can use them to add height to your window dressing or with blinds to create a finished look if you are short on space. There are dozens of different styles to choose from: fabric pelmets, also sometimes called valances, can come in the same style as the curtains themselves – box pleat, double pleat or pencil pleat are just three popular examples and can be made to hang straight or arched. Hard cover pelmets on the other hand, come in a variety of different shapes from simple styles like straight or arched to more intricate designs like stepped, scallop edge or even moulded ceiling cornice pelmets.
 
-![window-dressing5](/images/window-dressing5.jpg)
+![window-dressing5]({{ site.baseurl }}/images/window-dressing5.jpg)
 
 ### 6. Curtain length guide – careful measuring
 

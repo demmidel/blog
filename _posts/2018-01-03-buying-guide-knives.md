@@ -11,7 +11,7 @@ All kitchens need a good set of knives, and if you invest in the right ones, the
 
 Kitchen knives come in a variety of shapes and sizes and have all been designed to do different jobs. Most of us use a rotation of the same 5 to 10 knives to prepare and serve all our food so if you’re looking for a capsule collection, choose versatile blades that will be able to cope with the demands of everyday cooking in your kitchen.
 
-![knives1](/images/knives1.jpg)
+![knives1]({{ site.baseurl }}/images/knives1.jpg)
 
 Think about the foods you cook everyday and consider whether a specialist knife might make the task a little easier – a bread knife will quickly slice through dense crust while a boning knife makes it easy to filet fish or remove bones from poultry and red meat. Let your lifestyle guide your decisions.
 
@@ -22,7 +22,7 @@ A basic set of knives typically includes:
 - A bread knife 
 - A carving fork and knife
 
-![knives2](/images/knives2.jpg)
+![knives2]({{ site.baseurl }}/images/knives2.jpg)
 
 ### 2. Knife materials and construction
 
@@ -50,7 +50,7 @@ The way the knife is made will have an impact on the quality and price. Fully fo
 
 Hold each knife in your hand; the grip should be comfortable and sit easily in your hand. Weight is important, too – lightweight knives are good for fast, precision chopping, while weightier knives are best for solid foods and hard ingredients.
 
-![knives3](/images/knives3.jpg)
+![knives3]({{ site.baseurl }}/images/knives3.jpg)
 
 A good quality knife should have good balance – this means there is not too much weight in either the blade or the handle. You should be able to balance the knife evenly when you rest the tang on your index finger.
 
@@ -74,7 +74,7 @@ The utility knife is an all-purpose knife with a serrated edge that’s midway b
 
 The bread knife has a long blade and a serrated edge – the design makes it easy to cut through a hard crust and soft bread without placing too much pressure on the bread and crushing it. It also works well with other soft-centred foods like tomatoes for the same reason.
 
-![knives4](/images/knives4.jpg)
+![knives4]({{ site.baseurl }}/images/knives4.jpg)
 
 **Carving**
  

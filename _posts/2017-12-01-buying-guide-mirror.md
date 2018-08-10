@@ -3,13 +3,13 @@ layout: post
 title: "Buying Guide: Mirrors"
 ---
 
-![mirror1](/images/mirror1.jpg)
+![mirror1]({{ site.baseurl }}/images/mirror1.jpg)
 
 Designer mirrors are both decorative and versatile, solving many interior problems and acting as striking pieces of art in their own right. Whether you’re looking for a dramatic finishing piece or an understated accessory that’s fit for purpose, when it comes to mirrors, the possibilities are endless.
 
 To help you make the right decision, our design team have put together everything you need to know to choose the perfect mirror to enhance your home interior.
 
-![mirror2](/images/mirror2.jpg)
+![mirror2]({{ site.baseurl }}/images/mirror2.jpg)
 
 ### 1.Types of mirrors
 
@@ -21,7 +21,7 @@ There is virtually no room in the house that wouldn’t benefit from a mirror; w
 
 **Dressing Table** - Dressing table mirrors are small, decorative mirrors made to sit on a dressing table or vanity. They can be mounted on a small stand, making them easy to adjust and rotate, or sit atop a table – fitted dressing table mirrors often come with three panels so you can view different angles simultaneously.
 
-![mirror3](/images/mirror3.jpg)
+![mirror3]({{ site.baseurl }}/images/mirror3.jpg)
 
 ### 2.Shapes of mirror
 
@@ -35,7 +35,7 @@ Next consider the shape of your mirror; you can use your mirror to complement or
 
 **Abstract** - Abstract mirrors are modern and eclectic, typically used to add drama to a space and can resemble anything from a broken shard of glass to an intricate geometric shape, star or striking antique sunburst shape.
 
-![mirror4](/images/mirror4.jpg)
+![mirror4]({{ site.baseurl }}/images/mirror4.jpg)
 
 ### 3.Mirror frames
 
@@ -49,7 +49,7 @@ The frame of your mirror is the next important consideration and will have the b
 
 **Frameless** - Frameless mirrors are simple, understated and versatile. This style of mirror is ideal for spaces when mirrors are for very functional purposes, such as in a studio to maximise space and reflect light.
 
-![mirror5](/images/mirror5.jpg)
+![mirror5]({{ site.baseurl }}/images/mirror5.jpg)
 
 ### 4.Mirror finishes
 
@@ -67,7 +67,7 @@ You can also alter the style of the mirror by choosing different edges and finis
 
 **Bevelled edge** - The face of the mirror is slightly angled at the edges to add dimension and create the illusion of a frame.
 
-![mirror6](/images/mirror6.jpg)
+![mirror6]({{ site.baseurl }}/images/mirror6.jpg)
 
 ### 5.Mirrors in interior design
 
@@ -81,7 +81,7 @@ Mirrors are one of the most versatile tools in an interior designer’s arsenal 
 
 **To add depth** - You can add depth to a room by using a large, dramatic mirror as a focal point or by placing a small mirror behind or below a special feature you want to highlight – for example behind a vase or on shelves where your best glassware is kept.
 
-![mirror7](/images/mirror7.jpg)
+![mirror7]({{ site.baseurl }}/images/mirror7.jpg)
 
 ### 6.Mirror care
 
